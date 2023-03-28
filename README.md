@@ -37,7 +37,7 @@
 # 📖 Save The Children <a name="about-project"></a>
 
 
-**Save The Children** is a non governmental organization
+**Save The Children** is a non governmental organization, their mission is to inspire breakthroughs in the way the world treats children and to achieve immediate and lasting change in their lives.
 
 ## 🛠 Built With <a name="built-with"></a>
 
