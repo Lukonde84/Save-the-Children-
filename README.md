@@ -36,7 +36,6 @@
 
 # 📖 Save The Children <a name="about-project"></a>
 
-> Save The Children Website
 
 **Save The Children** is a non governmental organization
 
@@ -68,7 +67,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **Online Resource Links**
 - **Mobile View**
@@ -98,7 +96,7 @@ In order to run this project you need:
 
 
 ```sh
- gem install rails
+ Any modern web browser capable of running ES6 JavaScript code
 ```
 
 
@@ -169,8 +167,7 @@ You can deploy this project using:
 👤 **Lukonde Bwale**
 
 - GitHub: [@Lukonde84](https://github.com/Lukonde84)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
 
 
 
@@ -179,7 +176,6 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **Dynamic Content**
 - [ ] **Login and SignUp Page**
