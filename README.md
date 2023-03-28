@@ -77,7 +77,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://lukonde84.github.io/Save-the-Children-/)
 
