@@ -36,7 +36,6 @@
 
 # 📖 Save The Children <a name="about-project"></a>
 
-
 **Save The Children** is a non governmental organization, their mission is to inspire breakthroughs in the way the world treats children and to achieve immediate and lasting change in their lives.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -64,9 +63,7 @@
   </ul>
 </details>
 
-
 ### Key Features <a name="key-features"></a>
-
 
 - **Online Resource Links**
 - **Mobile View**
@@ -74,17 +71,13 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🚀 Live Demo <a name="live-demo"></a>
-
 
 - [Live Demo Link](https://lukonde84.github.io/Save-the-Children-/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 To get a local copy up and running, follow these steps.
 
@@ -92,68 +85,51 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-
-
 ```sh
  Any modern web browser capable of running ES6 JavaScript code
+ A gitHub account
 ```
-
 
 ### Setup
 
 Clone this repository to your desired folder:
-
-
 
 ```sh
   cd my-folder
   git clone https://github.com/Lukonde84/Save-the-Children-
 ```
 
-
 ### Install
 
 Install this project with:
 
-
-
 ```sh
   N/A
 ```
-
 
 ### Usage
 
 To run the project, execute the following command:
 
-
-
 ```sh
   Open index,html in any broswer
 ```
-
 
 ### Run tests
 
 To run tests, run the following command:
 
-
-
 ```sh
   N/A
 ```
-
 
 ### Deployment
 
 You can deploy this project using:
 
-
-
 ```sh
   N/A
 ```
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,25 +137,18 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-
 👤 **Lukonde Bwale**
 
 - GitHub: [@Lukonde84](https://github.com/Lukonde84)
 
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🔭 Future Features <a name="future-features"></a>
-
 
 - [ ] **Dynamic Content**
 - [ ] **Login and SignUp Page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -188,7 +157,6 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/Lukonde84/Save-the-Children-/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -202,13 +170,9 @@ If you like this project give it a star on Github
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
 I would like to thank everyone I worked with
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 ## 📝 License <a name="license"></a>
 
